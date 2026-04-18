@@ -13,4 +13,4 @@ A simple Tkinter-based app for tracking billiard averages.
 Run the app:
 
 ```bash
-python billiard_average.pyw
+python billiard_average.py
