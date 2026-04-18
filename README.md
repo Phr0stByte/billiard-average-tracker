@@ -11,7 +11,7 @@ A simple Tkinter-based app for tracking billiard averages.
 
 ## Screenshot
 
-![App Screenshot](screenshot.png)
+![App Screenshot](Screenshot.png)
 
 ## Usage
 Run the app:
